@@ -1,0 +1,67 @@
+/**
+ * deliveryestimation.css
+ *
+ * Main css file
+ *
+ * @author     Younes Adounis
+ * @copyright  2015 Younes Adounis
+ * @license    http://www.php.net/license/3_0.txt  PHP License 3.0
+ * @version    1.0.0
+ * @since      File available since Release 1.0.0
+ */
+
+#deliveryestimation {
+	margin-bottom: 5px;
+	display: block;
+	width: 100%;
+	overflow: hidden;
+}
+
+#deliveryestimation_content {
+	margin: 10px 0 10px 0;
+}
+
+#deliveryestimation_zone {
+	margin: 0 0 0 10px;
+}
+
+#deliveryestimation_form label {
+	font-weight: bold;
+}
+
+#deliveryestimation_modal {
+	display: none;
+}
+
+#deliveryestimation .open_model span {
+	font-size: 12px;
+	margin: 5px 0 5px 5px;
+	float: left;
+}
+
+#deliveryestimation .open_model img {
+	float: left;
+}
+
+#deliveryestimation_tab {
+	margin: 10px 0 10px 0;
+}
+
+#deliveryestimation_tab table {
+	width: 100%;
+}
+
+#deliveryestimation_tab td {
+	border: 1px solid #ddd;
+	padding: 5px;
+}
+
+#deliveryestimation_tab thead td {
+	background-color: #eee;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#deliveryestimation_tab td img {
+	margin: 0 5px 0 0;
+}
